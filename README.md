@@ -29,9 +29,22 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
-![Shakhawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawathossain07&layout=compact)
+<a href="https://github.com/shakhawathossain07">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&count_private=true&hide=stars&theme=radical&hide_border=true&bg_color=45,000046,1CB5E0&title_color=ffffff&text_color=ffffff" />
+</a>
+<a href="https://github.com/shakhawathossain07">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhawathossain07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,1CB5E0,000046&title_color=ffffff&text_color=ffffff" />
+</a>
+
+### 📊 My Contribution Graph
+<a href="https://github.com/shakhawathossain07">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity%20Graph" />
+</a>
+
+### 🔥 Streak Stats
+<a href="https://github.com/shakhawathossain07">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhawathossain07&theme=radical&hide_border=true&ring=1CB5E0&fire=1CB5E0&currStreakNum=ffffff&currStreakLabel=ffffff" />
+</a>
 
 ## ✨ Fun Facts
 - 🎸 I play the guitar in my free time.
