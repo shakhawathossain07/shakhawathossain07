@@ -1,7 +1,8 @@
 # Hi there, I'm Shakhawat Hossain 👋
 
 ## About Me
-- 🌱 I’m currently learning [Your Learning Focus]
+- 🌱 I’m currently learning ![image](https://github.com/user-attachments/assets/5e5290bf-6182-43b0-9778-dfcc962f5877)
+
 - 👯 I’m looking to collaborate on [Project or Collaboration Interest]
 - 🤔 I’m looking for help with [Area where you need help]
 - 💬 Ask me about [Your Expertise or Interests]
