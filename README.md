@@ -1,4 +1,6 @@
-# Hi there, I'm Shakhawat Hossain 👋
+# Hi there, I'm Shakhawat Hossain 
+
+![GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
@@ -44,4 +46,4 @@
 - [Email](mailto:your-email@example.com)
 - [Twitter](https://twitter.com/your-twitter-handle)
 
-![GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
