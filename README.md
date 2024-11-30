@@ -1,6 +1,4 @@
-# Hi there, I'm Shakhawat Hossain 
-![output-onlinegiftools](https://github.com/user-attachments/assets/df34f2a2-3ad1-406a-9065-466f670c7da6)
-
+# Hi there, I'm Shakhawat Hossain 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
 ![GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
