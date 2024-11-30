@@ -3,14 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning
-- ![Quantum_Computers_Explained_Limits_of_Human_Technology](https://github.com/user-attachments/assets/27dc02fc-ff7e-4b62-abb5-0b9abee9dcdd)
-
-- 👯 I’m looking to collaborate on BLOCKCHAIN
-- 🤔 I’m looking for help with Crypto Currency
-- 💬 Ask me about Quantum Machine Learning (Medical Image), Classical Machine Learning. 
-- 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com]
-- ⚡ Fun fact: [When I'm not coding, you can find me taking 8,000+ steps a day]
+- 🌱 I’m currently learning Quantum Computing ![Quantum Computing](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+- 👯 I’m looking to collaborate on BLOCKCHAIN ![Blockchain](https://media.giphy.com/media/3o7TKsQ7krvNmYF9h6/giphy.gif)
+- 🤔 I’m looking for help with Crypto Currency ![Crypto](https://media.giphy.com/media/3o6UB3VhArvomJHtdK/giphy.gif)
+- 💬 Ask me about Quantum Machine Learning (Medical Image), Classical Machine Learning. ![Machine Learning](https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif)
+- 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)
+- ⚡ Fun fact: When I'm not coding, you can find me taking 8,000+ steps a day.
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhawathossain07/)
