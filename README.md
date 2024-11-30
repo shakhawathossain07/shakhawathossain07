@@ -3,12 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Quantum Computing ![Quantum Computing](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
-- 👯 I’m looking to collaborate on [Project or Collaboration Interest]
-- 🤔 I’m looking for help with [Area where you need help]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🌱 I’m currently learning
+- ![Quantum_Computers_Explained_Limits_of_Human_Technology](https://github.com/user-attachments/assets/27dc02fc-ff7e-4b62-abb5-0b9abee9dcdd)
+
+- 👯 I’m looking to collaborate on BLOCKCHAIN
+- 🤔 I’m looking for help with Crypto Currency
+- 💬 Ask me about Quantum Machine Learning (Medical Image), Classical Machine Learning. 
+- 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com]
+- ⚡ Fun fact: [When I'm not coding, you can find me taking 8,000+ steps a day]
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhawathossain07/)
