@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning [Your Learning Focus]
+- 🌱 I’m currently learning Quantum Computing ![Quantum Computing](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
 - 👯 I’m looking to collaborate on [Project or Collaboration Interest]
 - 🤔 I’m looking for help with [Area where you need help]
 - 💬 Ask me about [Your Expertise or Interests]
