@@ -7,6 +7,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently diving into the depths of **Quantum Computing**
+
   ![Quantum_Computer](https://github.com/user-attachments/assets/8cae2296-a2ac-4a73-8899-3ecbc87d2086)  
 - 👯 Always excited to collaborate on **BLOCKCHAIN**
 - 🤔 Looking for insights in **Crypto Currency**
