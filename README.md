@@ -61,8 +61,8 @@
 ---
 
 ## 💼 Projects  
-- [Project 1](https://github.com/shakhawathossain07/project1): Brief description of what the project does.  
-- [Project 2](https://github.com/shakhawathossain07/project2): Brief description of what the project does.  
+- [Project 1](https://github.com/shakhawathossain07/project1): Loading...  
+- [Project 2](https://github.com/shakhawathossain07/project2): Loading...  
 
 ---
 
