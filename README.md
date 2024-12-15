@@ -66,7 +66,7 @@
 ---
 
 ## 💼 Projects
-- [Vaccine Management System Website](https://github.com/shakhawathossain07/Vaccine-Management):   
+- [Vaccine Management System Website by Md Shakhawat Hossain](https://github.com/shakhawathossain07/Vaccine-Management)   
 - 
 ---
 
