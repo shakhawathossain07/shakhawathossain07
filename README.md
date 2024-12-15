@@ -66,7 +66,7 @@
 ---
 
 ## 💼 Projects
-- [Project 1]([https://github.com/shakhawathossain07/project1](https://github.com/shakhawathossain07/Vaccine-Management)):   
+- [Project 1](https://github.com/shakhawathossain07/Vaccine-Management):   
 - [Project 2](https://github.com/shakhawathossain07/project2): 
 
 ---
