@@ -66,8 +66,8 @@
 ---
 
 ## 💼 Projects
-- [Project 1](https://github.com/shakhawathossain07/project1): Coming soon...  
-- [Project 2](https://github.com/shakhawathossain07/project2): Coming soon...  
+- [Project 1](https://github.com/shakhawathossain07/project1):   
+- [Project 2](https://github.com/shakhawathossain07/project2): 
 
 ---
 
