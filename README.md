@@ -65,9 +65,12 @@
 
 ---
 
-## 💼 Projects
-- [Vaccine Management System Website by Md Shakhawat Hossain](https://github.com/shakhawathossain07/Vaccine-Management)   
-- 
+## 💼 Projects 
+- AI EXAM Evaluator
+- https://aiexamevaluator.netlify.app/
+- <img width="960" alt="image" src="https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8" />
+
+
 ---
 
 ## 📬 Get in Touch
