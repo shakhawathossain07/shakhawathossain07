@@ -51,12 +51,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shakhawathossain07&theme=radical&hide_border=true&ring=1CB5E0&fire=1CB5E0&currStreakNum=ffffff&currStreakLabel=ffffff)
-
----
-
 ## ✨ Fun Facts
 - 🎸 Shredding the guitar in my free time.  
 - 🌍 Adventuring to new places and cultures.  
