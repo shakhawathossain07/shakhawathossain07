@@ -51,10 +51,8 @@
 
 ---
 
-### 🔥 Streak Stats
-<a href="https://github.com/shakhawathossain07">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhawathossain07&theme=radical&hide_border=true&ring=1CB5E0&fire=1CB5E0&currStreakNum=ffffff&currStreakLabel=ffffff" />
-</a>
+## 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shakhawathossain07&theme=radical&hide_border=true&ring=1CB5E0&fire=1CB5E0&currStreakNum=ffffff&currStreakLabel=ffffff)
 
 ---
 
@@ -66,10 +64,14 @@
 ---
 
 ## 💼 Projects 
-- AI EXAM Evaluator
 
-Project Link: https://aiexamevaluator.netlify.app/
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8" />
+## 🧠 AI Exam Evaluator
+
+An AI-powered web application that automatically evaluates students' exam answers, assigns scores, and provides feedback in real time. Designed to assist educators with faster and more accurate grading.
+
+![AI Exam Evaluator Screenshot](https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8)
+
+🔗 **Live Project:** [aiexamevaluator.netlify.app](https://aiexamevaluator.netlify.app/)
 
 
 ---
