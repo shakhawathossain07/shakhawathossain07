@@ -67,8 +67,8 @@
 
 ## 💼 Projects 
 - AI EXAM Evaluator
-- https://aiexamevaluator.netlify.app/
-- <img width="960" alt="image" src="https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8" />
+Project Link: https://aiexamevaluator.netlify.app/
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8" />
 
 
 ---
