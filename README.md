@@ -15,13 +15,12 @@
   
   ![0-fdExI6MR2LFns1uw](https://github.com/user-attachments/assets/12951502-ca12-44ce-814b-fbb8ed932284)
 - 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)  
-- ⚡ Fun fact: When I'm not coding, I'm crushing it with **8,000+ steps a day**.  
+- ⚡ Fun fact: I consistently walk over 8,000+ steps a day!  
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhawathossain07/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
 
 ---
 
