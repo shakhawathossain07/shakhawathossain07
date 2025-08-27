@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15e61e7a-000e-4077-945b-34e3cad0890f" alt="LinkedIn Banner" width="100%">
+  <img src="<img width="1584" height="396" alt="Red and White Modern Digital Marketer LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/3a66fe98-4309-48cf-8247-91749169edb8" />
+" alt="LinkedIn Banner" width="100%">
 </p>
 
 <h1 align="center">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain</span> 👋</h1>
