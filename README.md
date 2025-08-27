@@ -15,12 +15,13 @@
 ---
 
 ## 🚀 About Me  
-✨ Exploring the **world of Quantum Computing** & pushing the limits of technology.  
-⚡ Enthusiastic about **Blockchain** and **Crypto**.  
-💬 Love discussing **Quantum Machine Learning (Medical Imaging)** & **Classical ML**.  
-📩 Reach me: **[shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)**  
-👟 Fun Fact: I walk over **8,000+ steps a day**—every single day!  
-
+- 🌱 I’m currently diving into the depths of **Quantum Computing**
+  ![Quantum_Computer](https://github.com/user-attachments/assets/8cae2296-a2ac-4a73-8899-3ecbc87d2086)
+- 👯 Always excited to collaborate on **BLOCKCHAIN**
+- 🤔 Looking for insights in **Crypto Currency**
+- 💬 Happy to chat about **Quantum Machine Learning (Medical Imaging)** and **Classical Machine Learning**
+  ![0-fdExI6MR2LFns1uw](https://github.com/user-attachments/assets/12951502-ca12-44ce-814b-fbb8ed932284)
+- 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com) - ⚡ Fun fact: I consistently walk over 8,000+ steps a day!
 ---
 
 ## 🌐 Connect with Me  
