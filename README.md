@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="<img width="1584" height="396" alt="Red and White Modern Digital Marketer LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/3a66fe98-4309-48cf-8247-91749169edb8" />
-" alt="LinkedIn Banner" width="100%">
-</p>
-
 <h1 align="center">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain</span> 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aed6ecb8-2df1-4940-b897-2b43ee17d2d1" alt="LinkedIn Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
