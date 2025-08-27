@@ -21,6 +21,7 @@
 - 👯 Always excited to collaborate on **BLOCKCHAIN**
 - 🤔 Looking for insights in **Crypto Currency**
 - 💬 Happy to chat about **Quantum Machine Learning (Medical Imaging)** and **Classical Machine Learning**
+
 ![0-fdExI6MR2LFns1uw](https://github.com/user-attachments/assets/12951502-ca12-44ce-814b-fbb8ed932284)
 - 📫 How to reach me: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com) - ⚡ Fun fact: I consistently walk over 8,000+ steps a day!
 ---
