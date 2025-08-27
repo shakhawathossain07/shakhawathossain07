@@ -1,4 +1,6 @@
 # Hi there, I'm Md. Shakhawat Hossain 👋
+<img width="4950" height="1238" alt="Red and White Modern Digital Marketer LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/15e61e7a-000e-4077-945b-34e3cad0890f" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen)
 
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300" height="200" />
