@@ -1,4 +1,4 @@
-<p align="Left"> </p> <h1 align="Right">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain</span> 👋</h1>
+<p align="Left"><h1 align="Right">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain</span> 👋</h1> </p> 
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="320" height="200" />
 
 
