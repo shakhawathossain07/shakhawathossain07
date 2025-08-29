@@ -1,5 +1,5 @@
 <p align="Left">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain👋</h1> </p> 
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="320" height="200" /> <img src="https://github.com/user-attachments/assets/aed6ecb8-2df1-4940-b897-2b43ee17d2d1" alt="LinkedIn Banner" width="100%">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="320" height="200" <img src="https://github.com/user-attachments/assets/aed6ecb8-2df1-4940-b897-2b43ee17d2d1" alt="LinkedIn Banner" width="100%"> /> <img src=<img src="https://github.com/user-attachments/assets/aed6ecb8-2df1-4940-b897-2b43ee17d2d1" alt="LinkedIn Banner" width="100%">>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aed6ecb8-2df1-4940-b897-2b43ee17d2d1" alt="LinkedIn Banner" width="100%">
