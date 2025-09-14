@@ -74,9 +74,7 @@
 ## 💼 Featured Project: **AI Exam Evaluator**  
 An AI-powered web application that **automatically evaluates exam answers**, assigns scores & provides feedback in real time. Built to make grading faster & smarter 🚀  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da7ed7ce-7dba-42a3-8ff4-c0b8d4871ab8" alt="AI Exam Evaluator Screenshot" width="70%"/>
-</p>
+<img width="1280" height="720" alt="Red   Black Bold Digital Courses YouTube Thumbnail (1)" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6" />
 
 🔗 **Live Project:** [aiexamevaluator.netlify.app](https://aiexamevaluator.netlify.app/)
 
