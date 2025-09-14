@@ -76,7 +76,7 @@ An AI-powered web application that **automatically evaluates exam answers**, ass
 
 <img width="1280" height="720" alt="Red   Black Bold Digital Courses YouTube Thumbnail (1)" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6" />
 
-🔗 **Live Project:** [aiexamevaluator.netlify.app](https://aiexamevaluator.netlify.app/)
+🔗 **Live Project:** [aiexamevaluator.me](https://aiexamevaluator.me/)
 
 ---
 
