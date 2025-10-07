@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20About%20PMe&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=“Engineering+the+quantum+future—one+algorithm+at+a+time.”" alt="Animated Motto"/>
 
@@ -23,13 +23,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=💬+Ask+me+about+Neural+Optimization,+Qiskit,+or+React+Ecosystems" alt="Animated Ask"/>
 
-📩 **shakhawat.hossain07.edu@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=⚡shakhawat.hossain07.edu@gmail.com" alt="Animated Motto"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=⚡+Motto+→+Code+▸+Think+▸+Evolve" alt="Animated Motto"/>
 
 ---
 
-## 🧰 Tech Toolbox
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Tech%20Toolbox&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tensorflow,pytorch,git,github,vscode,figma" alt="Tech Toolbox"/>
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🌐 Connect with Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Connect%20With%Me&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakhawathossain07" target="_blank">
@@ -54,7 +54,7 @@
 
 ---
 
-## ⚡ GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Github%20GStats&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
@@ -67,7 +67,7 @@
 
 ---
 
-## 🌌 Contribution Galaxy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Contribution&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀+Contribution+Galaxy"/>
 
