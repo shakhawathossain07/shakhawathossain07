@@ -81,15 +81,7 @@
 
 🔗 **Live Demo:** [aiexamevaluator.me](https://aiexamevaluator.me)
 
----
 
-## 🕓 Dynamic Time Display
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=GitHub+doesn’t+execute+live+code,+but+this+image+auto-updates+every+few+minutes+using+a+serverless+cron." alt="Animated Time Description"/>
-
-<img src="https://vbr.wocr.tk/badge?page_id=shakhawathossain07&text=⏱️+Live+Time+in+Dhaka" alt="Dynamic Time Badge"/>
-
----
 
 ## ✨ Animated Quote of the Day
 
