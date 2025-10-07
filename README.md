@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="Right">
+<p align="Center">
  ![MSH+LinkedIn+Banner](https://github.com/user-attachments/assets/f8768598-f169-4b5b-a9ac-aec4dc432558)
 </p>
 ---
