@@ -15,17 +15,17 @@
 
 ## 🚀 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=“Engineering+the+quantum+future—one+algorithm+at+a+time.”" alt="Animated Motto"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=“Engineering+the+quantum+future—one+algorithm+at+a+time.”" alt="Animated Motto"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🧠+Researching+Quantum+Machine+Learning+for+Medical+Imaging" alt="Animated Research"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=🧠+Researching+Quantum+Machine+Learning+for+Medical+Imaging" alt="Animated Research"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=⚙️+Building+futuristic+systems+with+AI+×+Blockchain+×+Quantum" alt="Animated Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=⚙️+Building+futuristic+systems+with+AI+×+Blockchain+×+Quantum" alt="Animated Building"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=💬+Ask+me+about+Neural+Optimization,+Qiskit,+or+React+Ecosystems" alt="Animated Ask"/>
 
 📩 **shakhawat.hossain07.edu@gmail.com**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=⚡+Motto+→+Code+▸+Think+▸+Evolve" alt="Animated Motto"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=⚡+Motto+→+Code+▸+Think+▸+Evolve" alt="Animated Motto"/>
 
 ---
 
