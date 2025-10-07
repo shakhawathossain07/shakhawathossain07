@@ -54,7 +54,7 @@
 
 ---
 
-## ⚡ Dynamic GitHub Stats
+## ⚡ GitHub Stats
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
