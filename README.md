@@ -128,6 +128,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=120&section=footer&text=⚡+Thanks+for+Visiting!+⚡&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=footer&text=⚡+Thanks+for+Visiting!+⚡&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
 
 </div>
