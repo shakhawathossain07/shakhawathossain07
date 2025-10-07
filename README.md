@@ -15,13 +15,20 @@
 </div>
 
 <!-- Spacer -->
-<br/>
+<!-- Animated Profile Views Section -->
+<div align="center">
 
-<!-- Profile View Counter (Dynamic Style) -->
-<img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=for-the-badge" alt="Profile Views"/>
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=👁️+Profile+Views+Live+Counter" alt="Animated Typing Title"/>
 
-<!-- Optional: Animated Typing Tagline -->
-<br/>
+  <!-- Dynamic View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=Profile+Visits&color=00E0FF&style=for-the-badge" alt="Profile Views"/>
+
+  <!-- Animated Divider (glow effect) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E0FF&height=2&section=footer&reversal=true&animation=fadeIn" width="80%" alt="Divider"/>
+
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🌐+Connecting+Tech,+Science,+and+Innovation" alt="Animated Banner Text"/>
 
 </div>
