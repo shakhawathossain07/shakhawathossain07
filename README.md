@@ -31,10 +31,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Tech%20Toolbox&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tensorflow,pytorch,git,github,vscode,figma" alt="Tech Toolbox"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=⚡+Coding+in+Python,+JS,+and+React;🤖+AI,+ML,+and+Quantum+Computing;🚀+Building+Futuristic+Tech+Ecosystems" alt="Dynamic Tech Intro"/>
+</p>
 
-<img src="https://img.shields.io/badge/Quantum_Computing-0D1117?style=for-the-badge&logo=ibm&logoColor=00E0FF"/>
-<img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
+<!-- 🔁 Animated Tech Icon Grid -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nodejs,js,html,css,git,github,vscode,figma&perline=6" alt="Dynamic Tech Icons"/>
+</p>
+
+<!-- 🌀 Dynamic Quantum + Blockchain Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=⚛️+Quantum+Computing+%7C+IBM+Qiskit;🔗+Blockchain+%26+Web3+Innovation" alt="Animated Quantum & Blockchain"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum_Computing-0D1117?style=for-the-badge&logo=ibm&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
+  <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+</p>
+
+<!-- ⚙️ Dynamic Update Indicator -->
+<p align="center">
+  <img src="https://vbr.wocr.tk/badge?page_id=shakhawathossain07.tech&text=🧠+Auto-updated+Toolbox" alt="Dynamic update"/>
+</p>
 
 ---
 
