@@ -73,7 +73,7 @@
 
 ---
 
-## 💼 Featured Project – AI Exam Evaluator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Featured%20Projects&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=An+AI-powered+system+that+evaluates+answers+Script" alt="Animated Project Description"/>
 
