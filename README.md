@@ -52,10 +52,6 @@
   <img src="https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
 </p>
 
-<!-- ⚙️ Dynamic Update Indicator -->
-<p align="center">
-  <img src="https://vbr.wocr.tk/badge?page_id=shakhawathossain07.tech&text=🧠+Auto-updated+Toolbox" alt="Dynamic update"/>
-</p>
 
 ---
 
