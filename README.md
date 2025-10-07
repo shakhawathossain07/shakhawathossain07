@@ -83,7 +83,7 @@
 
 
 
-## ✨ Animated Quote of the Day
+## ✨ My favourite Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Animated Quote"/>
 
