@@ -10,7 +10,9 @@
 <div align="center">
 
 <!-- LinkedIn Banner -->
-<img width="100%" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd" style="border-radius: 12px;"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5af1d625-b80c-443b-bfb6-f0393991f7f7" width="100%" alt="MSH Animated LinkedIn Banner"/>
+</div>
 
 <!-- Spacer -->
 <br/>
