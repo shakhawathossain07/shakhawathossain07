@@ -83,13 +83,13 @@
 
 
 
-## ✨ My favourite Quote of the Day
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Quote%20Of%20The%20Day&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Animated Quote"/>
 
 ---
 
-## 🎨 Beyond the Code
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Beyond%20Coding&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=🎸+Guitarist+•+🌍+Explorer+•+📚+Sci-Fi+Reader+•+💭+Futurist" alt="Animated Beyond"/>
 
