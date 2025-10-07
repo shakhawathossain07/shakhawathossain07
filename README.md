@@ -1,26 +1,40 @@
-<p align="left">
-  <h1>🌌 Hey, I'm <span style="color:#00E0FF;">Md. Shakhawat Hossain</span> 👋</h1>
+<p align="center">
+  <h1>👋 Hey, I'm <span style="color:#00E0FF;">Md. Shakhawat Hossain</span></h1>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00E0FF&center=true&vCenter=true&width=800&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code" alt="Typing SVG">
 </p>
 
 <img width="1584" height="396" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd" />
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=flat-square" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-> Crafting the future, one qubit at a time ⚛️✨  
+> *“Engineering the Quantum Future — one algorithm at a time.”*
 
-- 🧩 Exploring the quantum realm with **Quantum Computing** & **AI Systems**  
-- 🤝 Collaborating on **Blockchain**, **FinTech**, and **Quantum Machine Learning (QML)**  
-- 💡 Passionate about merging **Medical Imaging** with **Next-Gen AI Algorithms**  
-- 🔭 Building futuristic web platforms where **software meets science**  
-- 📫 Reach me: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)  
-- ⚡ Fun fact: I walk 8,000+ steps a day — perfect balance between code & cardio!  
+- 🌐 Exploring **Quantum Computing**, **AI**, & **Blockchain Synergy**  
+- 🧠 Focused on **Quantum Machine Learning for Medical Imaging**  
+- 💬 Ask me about **AI-driven automation**, **Neural Optimization**, & **Web3**  
+- ⚙️ Always experimenting with futuristic frameworks  
+- 📩 Contact: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)  
+- ⚡ Daily motto: *Code. Think. Evolve.*
 
-![Quantum_Computer](https://github.com/user-attachments/assets/8cae2296-a2ac-4a73-8899-3ecbc87d2086)
+---
+
+## 🧠 Tech Toolbox  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,github,html,css,vscode,figma,tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum_Computing-0D1117?style=for-the-badge&logo=ibm&logoColor=00E0FF"/>
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=F7931A"/>
+</p>
 
 ---
 
@@ -39,39 +53,27 @@
 
 ---
 
-## 🧠 Tech Toolbox  
+## ⚡ Dynamic GitHub Stats  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-0B0B45?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-0C7C59?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum_Computing-4B0082?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-222222?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhawathossain07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawathossain07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Pulse  
+## 🪐 Contribution Universe  
 <p align="center">
-  <a href="https://github.com/shakhawathossain07">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=45,000046,1CB5E0&title_color=00E0FF&text_color=E0E0E0" />
-  </a>
-  <a href="https://github.com/shakhawathossain07">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=shakhawathossain07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,1CB5E0,000046&title_color=00E0FF&text_color=E0E0E0" />
-  </a>
-</p>
-
----
-
-## 🌌 Contribution Galaxy  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&theme=react-dark&area=true&hide_border=true&custom_title=🚀%20My%20GitHub%20Activity%20Galaxy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=ffffff&area=true&hide_border=true&custom_title=🚀+Contribution+Galaxy" />
 </p>
 
 ---
 
 ## 💼 Featured Project: **AI Exam Evaluator**  
-> _An AI-powered platform that evaluates answers and generates instant feedback using NLP & ML pipelines._  
+> _An AI-powered system that autonomously evaluates answers and gives real-time NLP-based feedback._
 
 <img width="1280" height="720" alt="AI Exam Evaluator" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6" />
 
@@ -79,16 +81,35 @@
 
 ---
 
-## 🎨 Beyond the Code  
-🎸 Guitarist | 🌍 Traveler | 📚 Sci-Fi Enthusiast | 💭 Futurist  
-
-> “The future isn’t something we enter — it’s something we engineer.”  
+## 🌌 Dynamic Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic quote">
+</p>
 
 ---
 
-## 📬 Let’s Build the Future Together  
+## 🕓 Current Time (UTC +6)
+<p align="center">
+  <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" alt="time & weather">
+</p>
+
+---
+
+## 🎨 Beyond the Code  
+🎸 Guitarist • 🌍 Explorer • 📚 Sci-Fi Thinker • 💭 Futurist  
+> “The future doesn’t happen to us — we *code* it into existence.”
+
+---
+
+## 🛰️ Let’s Connect & Build the Future  
 <p align="center">
   <a href="mailto:shakhawat.hossain07.edu@gmail.com"><b>📧 Email</b></a> • 
   <a href="https://twitter.com/your-twitter-handle"><b>🐦 Twitter</b></a> • 
   <a href="https://www.linkedin.com/in/shakhawathossain07/"><b>💼 LinkedIn</b></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
