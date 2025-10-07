@@ -1,12 +1,11 @@
 <p align="Left">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain👋</h1> </p> 
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="320" height="200"/> 
 
 <p align="Right">
   <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="Center">
- <img width="1584" height="396" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/772b879a-7293-4216-bc29-76eea3e2b87b" />
+<p align="Right">
+ ![MSH+LinkedIn+Banner](https://github.com/user-attachments/assets/f8768598-f169-4b5b-a9ac-aec4dc432558)
 </p>
 ---
 
