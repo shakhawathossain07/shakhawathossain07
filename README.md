@@ -6,14 +6,28 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code;🚀+Transforming+Ideas+into+Innovation" alt="Animated Intro"/>
 
 ---
+<!-- 🌌 Banner Section -->
+<div align="center">
 
-<img width="100%" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd"/>
+<!-- LinkedIn Banner -->
+<img width="100%" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd" style="border-radius: 12px;"/>
 
-<img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=flat-square" alt="Profile Views"/>
+<!-- Spacer -->
+<br/>
+
+<!-- Profile View Counter (Dynamic Style) -->
+<img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=for-the-badge" alt="Profile Views"/>
+
+<!-- Optional: Animated Typing Tagline -->
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🌐+Connecting+Tech,+Science,+and+Innovation" alt="Animated Banner Text"/>
+
+</div>
+
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20About%20PMe&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20About%20Me&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=“Engineering+the+quantum+future—one+algorithm+at+a+time.”" alt="Animated Motto"/>
 
@@ -55,7 +69,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Connect%20With%Me&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Connect%20With%20Me&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shakhawathossain07" target="_blank">
