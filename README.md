@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<p align="Center">
+ <img width="1584" height="396" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/772b879a-7293-4216-bc29-76eea3e2b87b" />
+</p>
 ---
 
 ## 🚀 About Me  
