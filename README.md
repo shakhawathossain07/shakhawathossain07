@@ -1,34 +1,35 @@
+<!-- ⚡ Futuristic Dynamic GitHub Profile – Md. Shakhawat Hossain -->
+
 <p align="center">
   <h1>👋 Hey, I'm <span style="color:#00E0FF;">Md. Shakhawat Hossain</span></h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00E0FF&center=true&vCenter=true&width=800&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code;🚀+Transforming+Ideas+into+Innovation" alt="Animated Intro">
 </p>
 
 <img width="1584" height="396" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd" />
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shakhawathossain07&label=👁️+Profile+Views&color=00E0FF&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-> *“Engineering the Quantum Future — one algorithm at a time.”*
+> *“Engineering the quantum future—one algorithm at a time.”*
 
-- 🌐 Exploring **Quantum Computing**, **AI**, & **Blockchain Synergy**  
-- 🧠 Focused on **Quantum Machine Learning for Medical Imaging**  
-- 💬 Ask me about **AI-driven automation**, **Neural Optimization**, & **Web3**  
-- ⚙️ Always experimenting with futuristic frameworks  
-- 📩 Contact: [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)  
-- ⚡ Daily motto: *Code. Think. Evolve.*
+- 🧠 Researching **Quantum Machine Learning** for **Medical Imaging**  
+- ⚙️ Building futuristic systems blending **AI × Blockchain × Quantum**  
+- 💬 Ask me about **neural optimization**, **Qiskit**, or **React ecosystems**  
+- 📩 [shakhawat.hossain07.edu@gmail.com](mailto:shakhawat.hossain07.edu@gmail.com)  
+- ⚡ Motto → Code ▸ Think ▸ Evolve  
 
 ---
 
-## 🧠 Tech Toolbox  
+## 🧰 Tech Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,github,html,css,vscode,figma,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tensorflow,pytorch,git,github,vscode,figma" />
 </p>
 
 <p align="center">
@@ -55,8 +56,8 @@
 
 ## ⚡ Dynamic GitHub Stats  
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=shakhawathossain07&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=shakhawathossain07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -65,15 +66,15 @@
 
 ---
 
-## 🪐 Contribution Universe  
+## 🌌 Contribution Galaxy  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=ffffff&area=true&hide_border=true&custom_title=🚀+Contribution+Galaxy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀+Contribution+Galaxy" />
 </p>
 
 ---
 
-## 💼 Featured Project: **AI Exam Evaluator**  
-> _An AI-powered system that autonomously evaluates answers and gives real-time NLP-based feedback._
+## 💼 Featured Project – **AI Exam Evaluator**  
+> _An AI-powered system that evaluates answers and provides real-time NLP feedback._
 
 <img width="1280" height="720" alt="AI Exam Evaluator" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6" />
 
@@ -81,35 +82,29 @@
 
 ---
 
-## 🌌 Dynamic Quote of the Day  
+## 🕓 Dynamic Time Display  
+> GitHub doesn’t execute live code, but this image auto-updates every few minutes using a serverless cron.  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic quote">
+  <img src="https://vbr.wocr.tk/badge?page_id=shakhawathossain07&text=⏱️+Live+Time+in+Dhaka" alt="Dynamic time badge"/>
 </p>
+
+*(You can replace the URL with your own Vercel badge or API service later for custom styling.)*
 
 ---
 
-## 🕓 Current Time (UTC +6)
+## ✨ Animated Quote of the Day  
 <p align="center">
-  <img src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" alt="time & weather">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Animated quote">
 </p>
 
 ---
 
 ## 🎨 Beyond the Code  
-🎸 Guitarist • 🌍 Explorer • 📚 Sci-Fi Thinker • 💭 Futurist  
-> “The future doesn’t happen to us — we *code* it into existence.”
-
----
-
-## 🛰️ Let’s Connect & Build the Future  
-<p align="center">
-  <a href="mailto:shakhawat.hossain07.edu@gmail.com"><b>📧 Email</b></a> • 
-  <a href="https://twitter.com/your-twitter-handle"><b>🐦 Twitter</b></a> • 
-  <a href="https://www.linkedin.com/in/shakhawathossain07/"><b>💼 LinkedIn</b></a>
-</p>
+🎸 Guitarist • 🌍 Explorer • 📚 Sci-Fi Reader • 💭 Futurist  
+> “The future doesn’t happen to us — we *code* it into existence.”  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=120&section=footer&text=⚡+Thanks+for+Visiting!+⚡&fontSize=22&fontColor=FFFFFF&animation=twinkling" />
 </p>
