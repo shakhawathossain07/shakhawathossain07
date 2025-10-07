@@ -71,7 +71,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Github%20GStats&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Github%20Stats&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=shakhawathossain07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
