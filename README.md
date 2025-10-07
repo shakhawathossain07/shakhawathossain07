@@ -91,7 +91,7 @@
 
 ## 🎨 Beyond the Code
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🎸+Guitarist+•+🌍+Explorer+•+📚+Sci-Fi+Reader+•+💭+Futurist" alt="Animated Beyond"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=🎸+Guitarist+•+🌍+Explorer+•+📚+Sci-Fi+Reader+•+💭+Futurist" alt="Animated Beyond"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=“The+future+doesn’t+happen+to+us+—+we+code+it+into+existence.”" alt="Animated Quote"/>
 
