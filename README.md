@@ -107,9 +107,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Contribution&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Animated Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Contribution&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀+Contribution+Galaxy"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakhawathossain07&bg_color=0D1117&color=00E0FF&line=00E0FF&point=FFFFFF&area=true&hide_border=true&custom_title=🚀+Contribution+Graph"/>
 
 ---
 
