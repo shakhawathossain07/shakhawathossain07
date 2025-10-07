@@ -75,7 +75,7 @@
 
 ## 💼 Featured Project – AI Exam Evaluator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=_An+AI-powered+system+that+evaluates+answers+and+provides+real-time+NLP+feedback._" alt="Animated Project Description"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=_An+AI-powered+system+that+evaluates+answers+._" alt="Animated Project Description"/>
 
 <img width="100%" alt="AI Exam Evaluator" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6"/>
 
