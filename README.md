@@ -1,12 +1,7 @@
 <p align="Left">🌌 Hi there, I'm <span style="color:#1CB5E0;">Md. Shakhawat Hossain👋</h1> </p> 
 
+<img width="1584" height="396" alt="MSH LinkedIn Banner" src="https://github.com/user-attachments/assets/ef4270fe-51c5-40de-8719-d3ddb06ad7fd" />
 
-
-<p align="Center">
-  ![MSH LinkedIn Banner](https://github.com/user-attachments/assets/ed364ae2-823d-4932-beda-59c787fc3552)
-
-</p>
----
 
 ## 🚀 About Me  
 - 🌱 I’m currently diving into the depths of **Quantum Computing**
