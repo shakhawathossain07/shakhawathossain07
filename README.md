@@ -118,6 +118,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=AI+Exam+Evaluator+With+Intelligent+Feedback" alt="Animated Project Description"/>
 
 <img width="100%" alt="AI Exam Evaluator" src="https://github.com/user-attachments/assets/7e583977-fd47-4e50-bb6a-4ea4dda417d6"/>
+<img width="209" height="43" alt="image" src="https://github.com/user-attachments/assets/0b069141-13da-42b3-8a57-d312adc9b5b2" />
 
 🔗 **Live Demo:** [aiexamevaluator.me](https://aiexamevaluator.me)
 
