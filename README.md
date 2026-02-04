@@ -1,7 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=👋%20Hey,%20I'm%20Md.%20Shakhawat%20Hossain&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
-
-<div align="center">
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00E0FF&center=true&vCenter=true&width=940&lines=👋+Hey,+I'm+Md.+Shakhawat+Hossain;Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  
+  <!-- Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code;🚀+Transforming+Ideas+into+Innovation" alt="Animated Intro"/>
 
