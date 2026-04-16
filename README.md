@@ -65,7 +65,7 @@
 
 <!-- 🌀 Dynamic Quantum + Blockchain Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=⚛️+Quantum+Computing+%7C+IBM+Qiskit;🔗+Blockchain+%26+Web3+Innovation" alt="Animated Quantum & Blockchain"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=⚛️+Quantum+Computing+%7C+IBM+Qiskit;🔗+Blockchain+%26+Web3+Innovation" alt="Animated Quantum & AI"/>
 </p>
 
 <p align="center">
