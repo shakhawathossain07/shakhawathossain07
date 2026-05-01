@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=🌌+Quantum+Computing+Explorer;🤖+AI+%26+ML+Engineer;🧬+Quantum+Machine+Learning+Researcher;💡+Building+the+Future+with+Code;🚀+Transforming+Ideas+into+Innovation" alt="Animated Intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=850&lines=🤖+AI+%26+ML+Explorer;🌌+Quantum+Machine+Learning+Explorer;💡+Building+the+Future+with+Code;🚀+Transforming+Ideas+into+Innovation" alt="Animated Intro"/>
 
 ---
 <!-- 🌌 Banner Section -->
