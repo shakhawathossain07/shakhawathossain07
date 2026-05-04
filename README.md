@@ -1,4 +1,3 @@
-<img width="281" height="379" alt="Screenshot 2026-05-04 184258" src="https://github.com/user-attachments/assets/d711672d-5cdb-4a7e-b100-27890e42feda" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=👋%20Hey,%20I'm%20Md.%20Shakhawat%20Hossain&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
 <div align="center">
