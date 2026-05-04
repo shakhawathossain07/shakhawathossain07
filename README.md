@@ -121,7 +121,11 @@
 
 🔗 **Live Demo:** [aiexamevaluator.me](https://aiexamevaluator.me)
 
-<img width="281" height="379" alt="Screenshot 2026-05-04 184258" src="https://github.com/user-attachments/assets/ab4b6d72-154e-4f39-a6d2-885b8c8d3325" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ab4b6d72-154e-4f39-a6d2-885b8c8d3325" 
+       alt="Screenshot 2026-05-04 184258" 
+       width="100%" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Quote%20Of%20The%20Day&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
