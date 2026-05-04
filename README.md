@@ -1,4 +1,4 @@
-<div align="center">
+<img width="281" height="379" alt="Screenshot 2026-05-04 184258" src="https://github.com/user-attachments/assets/d711672d-5cdb-4a7e-b100-27890e42feda" /><div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=👋%20Hey,%20I'm%20Md.%20Shakhawat%20Hossain&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
 <div align="center">
@@ -122,7 +122,7 @@
 
 🔗 **Live Demo:** [aiexamevaluator.me](https://aiexamevaluator.me)
 
-
+<img width="281" height="379" alt="Screenshot 2026-05-04 184258" src="https://github.com/user-attachments/assets/ab4b6d72-154e-4f39-a6d2-885b8c8d3325" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Quote%20Of%20The%20Day&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
