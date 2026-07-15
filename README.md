@@ -125,13 +125,7 @@
 
 This project has been developed with the assistance of **Kiro: Agentic AI development** and is released as **open-source software** under the **MIT License**. The codebase is **AI-generated and/or AI-assisted** and is **not the proprietary property of any individual or organization**. You are free to use, modify, distribute, and build upon this project in accordance with the terms of the MIT License. For additional context and validation, please refer to the **supervisor’s recommendation letter** provided below.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ab4b6d72-154e-4f39-a6d2-885b8c8d3325" 
-       alt="Screenshot 2026-05-04 184258" 
-       width="100%" />
-</div>
 
-Show Credential ->  https://drive.google.com/file/d/1MfOTu77kCNmTyNK4Hy6DVV9ZghIZl08d/view?usp=drive_link
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=200&section=header&text=%20Quote%20Of%20The%20Day&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Animated Header"/>
 
